@@ -1,11 +1,21 @@
 # Mohamed Diomande
 
-I'm Mohamed. I live in Miami and I like building things, mostly software, sometimes hardware.
+Software engineering · Prototyping · Sales and operations  
+Miami, FL
 
-I learn by jumping in, making a first version and fixing it as I go.
+## About
 
-A lot of what I build comes from what I'm into outside of code: coffee, music, dance, and N'Ko, a West African script.
+I build software and hardware tools, from iOS apps and backend services to 3D-printed enclosures and small devices. Most recently I worked in territory sales at KOATJI, where I also built the team's iOS field app and delivery planner. Before that I spent seven years at Joe & The Juice in recruiting and HR.
 
-When I'm not at a computer I'm probably dancing, skating or making coffee.
+## Skills
 
-[Portfolio](https://granddiomande.com) · [LinkedIn](https://linkedin.com/in/diomandee)
+- **Languages:** Swift, Rust, Python, TypeScript
+- **Apps and data:** SwiftUI, Postgres, Supabase
+- **Hardware:** OpenSCAD, 3D printing, Raspberry Pi, ESP32, depth cameras
+- **Machine learning:** PyTorch, MLX
+
+## Contact
+
+- Email: mdiomande7907@gmail.com
+- Portfolio: [granddiomande.com](https://granddiomande.com)
+- LinkedIn: [linkedin.com/in/diomandee](https://linkedin.com/in/diomandee)
