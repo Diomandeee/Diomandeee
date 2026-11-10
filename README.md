@@ -1,7 +1,5 @@
 # Mohamed Diomande
 
-I build software and hardware: iOS apps, multi-camera systems, machine learning models, tools for AI coding agents, and parts designed in CAD for 3D printing. 
-
 [Portfolio](https://granddiomande.com) · [LinkedIn](https://linkedin.com/in/diomandee)
 
 ## Skills
