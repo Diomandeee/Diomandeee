@@ -35,14 +35,23 @@ I build software and hardware: iOS apps, multi-camera systems, machine learning 
 | [meshd](https://github.com/Diomandeee/meshd) | Daemon that runs AI coding agents in terminal slots behind an HTTP API, across machines. | Rust |
 | [pane-awareness](https://github.com/Diomandeee/pane-awareness) | Lets AI coding sessions in parallel terminals see each other's work, claim resources and hand off tasks. | Python |
 | [trajectory-memory-ledger](https://github.com/Diomandeee/trajectory-memory-ledger) | Records coding-agent sessions, normalizes them to one schema and scores them for training. | Rust, Python |
+| [karl](https://github.com/Diomandeee/karl) | Learns from recorded AI coding sessions: scores each one on six signals, exports the best as training data, and tests vector skill routing against regex rules. Based on the Trajectory Memory Ledger paper. | Python |
 
 ### Retrieval and training
 
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [rag-plusplus-core](https://github.com/Diomandeee/rag-plusplus-core) | Retrieval engine with SIMD vector search and an HNSW index. Published on crates.io. | Rust |
+| [context-gateway](https://github.com/Diomandeee/context-gateway) | One retrieval endpoint over pgvector search, graph traversal and Gemini embeddings, with duplicate detection and echo suppression. | Python |
 | [admissibility-kernel](https://github.com/Diomandeee/admissibility-kernel) | Deterministic context slicing for conversation graphs. Published on crates.io. | Rust |
+| [live-knowledge-graphs](https://github.com/Diomandeee/live-knowledge-graphs) | Knowledge graph that AI agents read and update while they run, built around a deterministic context slicer. Evaluation results are in the repo. | Rust, Python |
 | [thunder-train](https://github.com/Diomandeee/thunder-train) | Distributed LoRA fine-tuning across two Apple Silicon Macs over Thunderbolt. | Python, MLX |
+
+### Developer tools
+
+| Project | What it is | Built with |
+| --- | --- | --- |
+| [spatial-git](https://github.com/Diomandeee/spatial-git) | Walk through a repo's git history in 3D, and play the commits back as synthesized music. | JavaScript, Web Audio |
 
 ## Private work
 
@@ -53,5 +62,6 @@ Some of my work stays private because it holds details of my own setup or unrele
 - **LUME:** live stage visuals driven by a depth camera, in Python and Unity.
 - **Air Deck:** software that works with a real DJ controller over USB.
 - **Jeli models:** N'Ko OCR, speech and tone models.
+- **N'Ko Brain Scanner:** a study of how large language models handle N'Ko, with activation profiling, fine-tuning and constrained decoding.
 
 The portfolio has drawings, photos and results.
