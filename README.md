@@ -18,7 +18,7 @@ I build software and hardware: iOS apps, multi-camera systems, machine learning 
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [lume-enclosure](https://github.com/Diomandeee/lume-enclosure) | Parametric enclosure for a depth-camera stage unit. 18 printable parts, with joint coupons to test fit before the big prints. | OpenSCAD |
+| [lume-enclosure](https://github.com/Diomandeee/lume-enclosure) | Parametric enclosure for a depth-camera stage unit. 18 printable parts, including joint coupons to test fit before the big prints. | OpenSCAD |
 | [jeli-device](https://github.com/Diomandeee/jeli-device) | Printable N'Ko learning device: generated body STLs, an adjustable Raspberry Pi dock with geometry tests, and a browser device-twin. | Python, manifold3d |
 
 ### Cameras and motion
