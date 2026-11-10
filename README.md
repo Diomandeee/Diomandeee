@@ -25,7 +25,7 @@ I build software and hardware: iOS apps, multi-camera systems, machine learning 
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [motionmix-core](https://github.com/Diomandeee/motionmix-core) | Core of a multi-camera capture hub: Record All as a transaction, a first-frame watchdog, receipts and pose signals. 88 tests. | Rust |
+| [motionmix-core](https://github.com/Diomandeee/motionmix-core) | Core of a multi-camera capture hub: Record All as a transaction, a first-frame watchdog, receipts and pose signals. | Rust |
 | [anticipation-geometry](https://github.com/Diomandeee/anticipation-geometry) | Seven numbers that describe where a trajectory is going, for motion, conversations or graphs. Evaluation results are in the repo. | Rust, Python |
 
 ### AI agent systems
