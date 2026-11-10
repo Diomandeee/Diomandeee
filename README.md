@@ -32,7 +32,6 @@ I build software and hardware: iOS apps, multi-camera systems, machine learning 
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [foundry](https://github.com/Diomandeee/foundry) | Merge gate for teams of AI agents. Agents push to their own forks, a deterministic checker approves or refuses each change, and every decision is recorded with its reason. | TypeScript, Cloudflare Workers |
 | [meshd](https://github.com/Diomandeee/meshd) | Daemon that runs AI coding agents in terminal slots behind an HTTP API, across machines. | Rust |
 | [pane-awareness](https://github.com/Diomandeee/pane-awareness) | Lets AI coding sessions in parallel terminals see each other's work, claim resources and hand off tasks. | Python |
 | [trajectory-memory-ledger](https://github.com/Diomandeee/trajectory-memory-ledger) | Records coding-agent sessions, normalizes them to one schema and scores them for training. | Rust, Python |
