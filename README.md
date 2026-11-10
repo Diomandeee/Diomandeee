@@ -53,15 +53,3 @@ I build software and hardware: iOS apps, multi-camera systems, machine learning 
 | --- | --- | --- |
 | [spatial-git](https://github.com/Diomandeee/spatial-git) | Walk through a repo's git history in 3D, and play the commits back as synthesized music. | JavaScript, Web Audio |
 
-## Private work
-
-Some of my work stays private because it holds details of my own setup or unreleased data:
-
-- **Fabric:** how I run AI coding agents across several machines and approve their work from my phone.
-- **MotionMix:** iPhone apps that track body pose and the full hub that picks the best camera live.
-- **LUME:** live stage visuals driven by a depth camera, in Python and Unity.
-- **Air Deck:** software that works with a real DJ controller over USB.
-- **Jeli models:** N'Ko OCR, speech and tone models.
-- **N'Ko Brain Scanner:** a study of how large language models handle N'Ko, with activation profiling, fine-tuning and constrained decoding.
-
-The portfolio has drawings, photos and results.
